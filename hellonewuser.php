@@ -1,3 +1,3 @@
 <?php
-    echo "new user git";
+    echo "new user git v2";
 ?>
